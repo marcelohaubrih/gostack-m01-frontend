@@ -1,0 +1,11 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Marcelo Haubrih",
+  "description": "Frontend - GoStack do modulo (01)",
+  "scripts": {
+    "dev": "yarn"
+  }
+}
